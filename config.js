@@ -6,21 +6,21 @@
 // RECODE BACK BY ARULL OFC
 
 //=============『 Utama 』================== //
-global.owner = ['6285822347348'] 
-global.mods = ['6285822347348'] 
-global.prems = ['6285822347348'] 
+global.owner = ['62882717220751'] 
+global.mods = ['62882717220751'] 
+global.prems = ['62882717220751'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ArullOfc ✰'
-global.numberowner = '6285822347348'
-global.instagram = 'https://instagram.com/sahrulwara_____'
-global.github = 'https://github.com/warikrr'
+global.nameowner = 'Dill Store ✰'
+global.numberowner = '62882717220751'
+global.instagram = 'https://instagram.com/dill.hfz'
+global.github = 'https://github.com/Dillbotz17'
 global.dana = '085822347348'
 global.pulsa = '085822347348'
 global.gopay = ''
 
 //=============『 Info Bot 』=================//
-global.namebot = 'ArullBotzMD'
+global.namebot = 'RDbotzMD'
 global.gc = 'https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKAS'
 global.web = 'https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKAS' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://saweria.co/arullOfc'
@@ -31,9 +31,9 @@ global.fotonya1 = 'https://telegra.ph/file/57f6828f84e24c3c58dfe.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/57f6828f84e24c3c58dfe.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '↻ArullBotz𝙼𝙳'
+global.wm = '↻RDEditZ'
 global.watermark = wm
-global.wm2 = 'ᯤ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 𝙱𝚈 ArullOfc ×፝֟͜×'
+global.wm2 = 'ᯤ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 𝙱𝚈 RD EditZ ×፝֟͜×'
 global.wm3 = 'ᯤ Arull𝙾𝙵𝙲'
 global.htki = '––––––『' 
 global.htka = '』––––––'
@@ -45,7 +45,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
 global.packname = 'Sticker By'
-global.author = '@ArullOfc✵'
+global.author = '@dill..!?✵'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
